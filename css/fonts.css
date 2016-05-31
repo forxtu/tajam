@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "playfair-display";
+	src: url("../fonts/playfair-display/PlayfairDisplaySC-Black.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "playfair-display";
+	src: url("../fonts/playfair-display/PlayfairDisplaySC-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "hammersmith-one";
+	src: url("../fonts/hammersmith-one/HammersmithOne.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
